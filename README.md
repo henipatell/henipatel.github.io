@@ -1,3 +1,4 @@
 # AmigosFunFiesta
 ````
-This is an simple project and website for event publicity.For fun.
+This is an simple project and website for event registration.For fun.
+
