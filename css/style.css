@@ -102,12 +102,12 @@ a.navbar-brand span {
 }
 
 .slider {
-	margin-top:110px;
+	margin-top:80px;
 	background-color:#;
 	
 }
 .bxslider li {
-	margin-left:40px;
+  margin-left:40px;
 
 }
 
@@ -425,8 +425,12 @@ a.navbar-brand span {
 
 
 #contact-page{
+  margin-top: 80px;
   padding-top: 0;
   background:#fff;
+}
+#img-profile{
+  border: 10px;
 }
 
 #contact-page .contact-form 
@@ -480,7 +484,7 @@ footer {
 }
 .f-about p {
   font-size: 14px;
-  color: #8a8d94;
+  color: #0000;
  
 }
 .l-posts h3 {
@@ -488,7 +492,7 @@ footer {
 }
 .l-posts li a {
   font-size: 14px;
-  color: #8a8d94;
+  color: #0000;
   margin: 0;
   font-weight: 300;
   border-bottom: 1px solid #f6f6f6;
@@ -503,7 +507,7 @@ footer {
 
 .f-contact p {
   font-size: 14px;
-  color: #8a8d94;
+  color: #0000;
   margin: 0;
   
   font-weight: 300;
@@ -543,7 +547,7 @@ footer {
 
 ul.social-network {
 	list-style:none;
-	margin-top:-20px;
+	margin-top:-10px;
 	float:right;
 	font-size:18px;	
 	margin-right:20px;
@@ -570,7 +574,7 @@ a.scrollup{
 	text-align:center;
 	text-decoration:none;
 	position:fixed;
-	bottom:10px;
+	bottom:8px;
 	right:40px;	
 	opacity:0,5;
 	border-radius:50%;
